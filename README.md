@@ -30,6 +30,7 @@ https://minjungw00.tistory.com/
 |:-:|:-:|
 |2024.06|정보처리기사 실기|
 |2024.06|TOPCIT Level 3(638)|
+|2025.04|SQLD|
 
 ### Algorithm Skill
 
